@@ -1,0 +1,186 @@
+[
+    {
+        "nomi": "O'tgan kunlar",
+        "muallifi": "Abdulla Qodiriy",
+        "janri": "Roman",
+        "narxi": 30000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Mehrobdan chayon",
+        "muallifi": "Abdulla Qodiriy",
+        "janri": "Roman",
+        "narxi": 32000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Kecha va kunduz",
+        "muallifi": "Cho'lpon",
+        "janri": "Roman",
+        "narxi": 28000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Qutlug' qon",
+        "muallifi": "Abdulla Qahhor",
+        "janri": "Roman",
+        "narxi": 25000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Sarob",
+        "muallifi": "Abdulla Qahhor",
+        "janri": "Qissa",
+        "narxi": 20000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "O'limdan kuchli",
+        "muallifi": "Oybek",
+        "janri": "Roman",
+        "narxi": 35000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Navoiy",
+        "muallifi": "Oybek",
+        "janri": "Biografik roman",
+        "narxi": 40000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Lochinlar",
+        "muallifi": "Pirimqul Qodirov",
+        "janri": "Qissa",
+        "narxi": 24000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Yulduzli tunlar",
+        "muallifi": "Pirimqul Qodirov",
+        "janri": "Tarixiy roman",
+        "narxi": 45000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Shum bola",
+        "muallifi": "G'afur G'ulom",
+        "janri": "Qissa",
+        "narxi": 22000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Hukm",
+        "muallifi": "G'afur G'ulom",
+        "janri": "She'r",
+        "narxi": 15000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Bobur",
+        "muallifi": "Uyg'un",
+        "janri": "Drama",
+        "narxi": 27000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Jannatga yo'l",
+        "muallifi": "Said Ahmad",
+        "janri": "Qissa",
+        "narxi": 26000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Qorako'z Majnun",
+        "muallifi": "Said Ahmad",
+        "janri": "Qissa",
+        "narxi": 23000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Oq kema",
+        "muallifi": "Chingiz Aytmatov",
+        "janri": "Qissa",
+        "narxi": 28000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Asrga teng kun",
+        "muallifi": "Chingiz Aytmatov",
+        "janri": "Roman",
+        "narxi": 37000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Boychechak",
+        "muallifi": "Abdulla Oripov",
+        "janri": "She'r",
+        "narxi": 14000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Sarvqomat dilbarim",
+        "muallifi": "Erkin Vohidov",
+        "janri": "She'r",
+        "narxi": 18000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Qo'rqma",
+        "muallifi": "Erkin Vohidov",
+        "janri": "She'r",
+        "narxi": 17000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "Ko'hna dunyo",
+        "muallifi": "Shukur Xolmirzaev",
+        "janri": "Roman",
+        "narxi": 30000,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "pyhton",
+        "muallifi": "rasulbek",
+        "janri": "real life",
+        "narxi": 30000.0,
+        "mavjud": true,
+        "ijarada": false
+    },
+    {
+        "nomi": "C",
+        "muallifi": "raxmatullo",
+        "janri": "real life",
+        "narxi": 20000.0,
+        "mavjud": false,
+        "ijarada": true
+    },
+    {
+        "nomi": "C++",
+        "muallifi": "hayotbek",
+        "janri": "real",
+        "narxi": 1234567.0,
+        "mavjud": true,
+        "ijarada": false
+    }
+]
